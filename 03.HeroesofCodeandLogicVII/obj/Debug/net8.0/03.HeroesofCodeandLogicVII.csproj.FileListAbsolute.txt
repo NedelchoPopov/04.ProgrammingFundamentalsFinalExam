@@ -1,0 +1,15 @@
+C:\Users\Deni\Documents\C# Fundamental\04.ProgrammingFundamentalsFinalExam\03.HeroesofCodeandLogicVII\bin\Debug\net8.0\03.HeroesofCodeandLogicVII.exe
+C:\Users\Deni\Documents\C# Fundamental\04.ProgrammingFundamentalsFinalExam\03.HeroesofCodeandLogicVII\bin\Debug\net8.0\03.HeroesofCodeandLogicVII.deps.json
+C:\Users\Deni\Documents\C# Fundamental\04.ProgrammingFundamentalsFinalExam\03.HeroesofCodeandLogicVII\bin\Debug\net8.0\03.HeroesofCodeandLogicVII.runtimeconfig.json
+C:\Users\Deni\Documents\C# Fundamental\04.ProgrammingFundamentalsFinalExam\03.HeroesofCodeandLogicVII\bin\Debug\net8.0\03.HeroesofCodeandLogicVII.dll
+C:\Users\Deni\Documents\C# Fundamental\04.ProgrammingFundamentalsFinalExam\03.HeroesofCodeandLogicVII\bin\Debug\net8.0\03.HeroesofCodeandLogicVII.pdb
+C:\Users\Deni\Documents\C# Fundamental\04.ProgrammingFundamentalsFinalExam\03.HeroesofCodeandLogicVII\obj\Debug\net8.0\03.HeroesofCodeandLogicVII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deni\Documents\C# Fundamental\04.ProgrammingFundamentalsFinalExam\03.HeroesofCodeandLogicVII\obj\Debug\net8.0\03.HeroesofCodeandLogicVII.AssemblyInfoInputs.cache
+C:\Users\Deni\Documents\C# Fundamental\04.ProgrammingFundamentalsFinalExam\03.HeroesofCodeandLogicVII\obj\Debug\net8.0\03.HeroesofCodeandLogicVII.AssemblyInfo.cs
+C:\Users\Deni\Documents\C# Fundamental\04.ProgrammingFundamentalsFinalExam\03.HeroesofCodeandLogicVII\obj\Debug\net8.0\03.HeroesofCodeandLogicVII.csproj.CoreCompileInputs.cache
+C:\Users\Deni\Documents\C# Fundamental\04.ProgrammingFundamentalsFinalExam\03.HeroesofCodeandLogicVII\obj\Debug\net8.0\03.HeroesofCodeandLogicVII.sourcelink.json
+C:\Users\Deni\Documents\C# Fundamental\04.ProgrammingFundamentalsFinalExam\03.HeroesofCodeandLogicVII\obj\Debug\net8.0\03.HeroesofCodeandLogicVII.dll
+C:\Users\Deni\Documents\C# Fundamental\04.ProgrammingFundamentalsFinalExam\03.HeroesofCodeandLogicVII\obj\Debug\net8.0\refint\03.HeroesofCodeandLogicVII.dll
+C:\Users\Deni\Documents\C# Fundamental\04.ProgrammingFundamentalsFinalExam\03.HeroesofCodeandLogicVII\obj\Debug\net8.0\03.HeroesofCodeandLogicVII.pdb
+C:\Users\Deni\Documents\C# Fundamental\04.ProgrammingFundamentalsFinalExam\03.HeroesofCodeandLogicVII\obj\Debug\net8.0\03.HeroesofCodeandLogicVII.genruntimeconfig.cache
+C:\Users\Deni\Documents\C# Fundamental\04.ProgrammingFundamentalsFinalExam\03.HeroesofCodeandLogicVII\obj\Debug\net8.0\ref\03.HeroesofCodeandLogicVII.dll
